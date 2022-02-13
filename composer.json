@@ -1,12 +1,15 @@
 {
-    "name": "hyperf/db-connection",
-    "description": "A hyperf db connection handler for hyperf/database.",
+    "name": "zhuangyuanhui/db-connection-pgsql",
+    "description": "A flexible swoole client postgresql database library.",
     "license": "MIT",
     "keywords": [
         "php",
         "hyperf",
         "database",
-        "connection"
+        "connection",
+        "postgresql",
+        "pgsql",
+        "swoole"
     ],
     "homepage": "https://hyperf.io",
     "support": {
